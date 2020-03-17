@@ -1,3 +1,5 @@
+![logo](/images/logoDavids.png)
+
 # David's lemonade
 
 ## Description du projet
